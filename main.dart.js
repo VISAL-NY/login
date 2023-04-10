@@ -67941,7 +67941,7 @@ q=a.V(r).f
 r=a.V(r).f
 return new A.w_(A.pQ(B.cw,A.a([A.fv(new A.tX(A.asG(s,s,new A.rv("asset/images/background.png",s,s)),B.xj,s),r.a.b,q.a.a),A.G4(s,this.Ss(a),s,s,s,s,0,s),A.ajf(0,new A.iE(B.U,s,s,this.Sr(a),s))],t.p),B.a8,B.cq),s)},
 Ss(a){var s=null,r=a.V(t.w).f,q=t.p
-return A.hC(s,A.mR(A.a([B.M8,A.mR(A.a([B.Av,B.vT,B.M7,B.vT,A.fv(A.ai5(B.M5,new A.a9_()),40,s)],q),B.bq,B.cd)],q),B.Ev,B.cd),s,s,s,s,B.zU,r.a.a)},
+return A.hC(s,A.mR(A.a([B.M8,A.mR(A.a([B.Av,B.vT,B.M7,B.vT,A.fv(A.ai5(B.M5,new A.a9_()),30,s)],q),B.bq,B.cd)],q),B.Ev,B.cd),s,s,s,s,B.zU,r.a.a)},
 Sr(a){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=Date.now(),f=this.e
 if(f<550)f=a.V(t.w).f.a.a*0
 else if(f<670)f=a.V(t.w).f.a.a*0.1
